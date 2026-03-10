@@ -12,4 +12,4 @@ Recent work:
 - Shipped production apps to App Store and Google Play
 - Building with AI integrations (OpenAI, Claude API)
 
-Currently open to freelance opportunities. [Upwork Profile](https://www.upwork.com/freelancers/~0161f7858ee84d52d0) | [LinkedIn](https://www.linkedin.com/in/sergey-kharatyan-8801961b8/)
+Currently open to freelance opportunities. [Upwork Profile](https://www.upwork.com/freelancers/~0161f7858ee84d52d0) | [LinkedIn](https://www.linkedin.com/in/sergey-kharatyan/)
